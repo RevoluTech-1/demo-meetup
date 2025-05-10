@@ -1,0 +1,2 @@
+class TokenRev < ApplicationRecord
+end
